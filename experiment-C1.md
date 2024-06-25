@@ -1,4 +1,4 @@
-# Experimentation with C1 Transformation Pattern
+# Experimentation with Transformation Pattern C1
 
 25-06-24 by Ondřej Zamazal
 
