@@ -189,7 +189,7 @@ ekaw#Reviewer SubClassOf ekaw#Person​
 ekaw#Reviewer EquivalentTo ekaw#Person and (ekaw#authorOf some ekaw#Review)
 ```
 
-**Onto-DESIDE ontologies**
+**Onto-DESIDE ontologies** https://github.com/LiUSemWeb/Circular-Economy-Ontology-Catalogue/tree/main
 
 ## Applied on AMONTOLOGY.owl
 
